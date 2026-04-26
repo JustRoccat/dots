@@ -1,17 +1,4 @@
 // ~/.config/quickshell/ShaderOverlay.qml
-// Optimized version:
-//   ✓ Full-screen coverage (no clipping at scrollbar)
-//   ✓ 60 FPS smooth animations
-//   ✓ Optimized rendering (cached patterns, reduced calculations)
-//   ✓ Better visual effects
-//
-// Efekty (proceduralne, Canvas-based):
-//   • Vignette          — ściemnienie krawędzi
-//   • Scanlines         — poziome linie CRT co 3px
-//   • Film grain        — animowany szum filmowy
-//   • Chromatic fringe  — RGB split na lewej/prawej krawędzi
-//   • Phosphor blur     — subtelna pozioma smuga (CRT afterglow)
-//
 import Quickshell
 import Quickshell.Wayland
 import QtQuick
