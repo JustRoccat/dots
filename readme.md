@@ -150,8 +150,7 @@ Hyprland
 | `SUPER + ALT + arrows` | Resize window |
 | `SUPER + SHIFT + S` | Region screenshot → clipboard |
 | `Print` | Full output screenshot |
-| Click on the clock | Open control panel |
-| Click on the playing track | Open music player |
+| Click on the middle button | Open control panel |
 
 ---
 
